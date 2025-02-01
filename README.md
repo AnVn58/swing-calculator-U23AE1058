@@ -8,5 +8,4 @@ A simple java calculator application using java swing GUI toolkit for java. Allo
 - DEPARTMENT: AEROSPACE ENGINERRING
 - FACULTY: AIR ENGINEERING
 - GROUP SIX
-## SCREENSHOT
-![calculator-img](/images/calculator-pic.png)
+
